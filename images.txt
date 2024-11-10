@@ -1,11 +1,4 @@
-rabbitmq:4.0.3
-nginx:1.24.0
-elasticsearch:7.17.25
-kibana:7.17.25
-openjdk:17.0.2-jdk
-mysql:8.0.36
-tdengine/tdengine
-redis
+emqx:5.8.1
 #支持私库
 opengrok/docker
 #支持指定架构
