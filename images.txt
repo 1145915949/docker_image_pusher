@@ -2,7 +2,7 @@ rabbitmq:4.0.3
 nginx:1.24.0
 elasticsearch:7.17.25
 kibana:7.17.25
-openjdk:17.0.2-jdk
+openjdk:17.0.9-jdk
 tdengine/tdengine
 redis
 #支持私库
