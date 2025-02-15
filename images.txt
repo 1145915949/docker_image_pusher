@@ -1,4 +1,4 @@
-minio:RELEASE.2022-01-04T07-41-07Z
+#minio:RELEASE.2022-01-04T07-41-07Z
 ollama/ollama:latest
 #支持私库
 opengrok/docker
