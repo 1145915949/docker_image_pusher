@@ -3,4 +3,4 @@ minio:RELEASE.2022-01-04T07-41-07Z
 opengrok/docker
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
-ollama:latest
+ollama/ollama:latest
