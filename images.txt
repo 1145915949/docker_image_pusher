@@ -1,5 +1,6 @@
 #minio:RELEASE.2022-01-04T07-41-07Z
 ollama/ollama:latest
+samanhappy/mcphub
 #支持私库
 opengrok/docker
 #支持指定架构
