@@ -2,7 +2,8 @@
 #ollama/ollama:latest
 #samanhappy/mcphub:latest
 #lfnovo/open_notebook:v1-latest-single
-tdengine/tsdb:3.4.0.9
+#tdengine/tsdb:3.4.0.9
+nginx:latest
 #支持私库
 opengrok/docker
 #支持指定架构
